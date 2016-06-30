@@ -7,3 +7,5 @@ Second testing after committing for the first time.
 Commit with multiple file test.
 
 Editing README file on the server for file pulling testing.
+
+Editing both file on the server test.
