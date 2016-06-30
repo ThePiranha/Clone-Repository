@@ -1,1 +1,3 @@
 folder ina sub folder test.
+
+check both folder

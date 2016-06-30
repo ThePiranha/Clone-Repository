@@ -1,3 +1,5 @@
 File in a folder test.
 
 Edit file in sub folder test.
+
+Both folder test.
